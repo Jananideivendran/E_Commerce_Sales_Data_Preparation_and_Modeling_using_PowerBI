@@ -50,20 +50,23 @@ Power BI Data Modeling
 CSV Files
 Data Transformation and Cleansing
 🔄 Project Tasks and Implementation
+
 1. Data Import
 Imported List of Orders.csv into Power BI.
 Opened Power Query Editor using the Transform Data option.
 Imported Order Details.csv and Sales Target.csv into Power Query Editor.
 Verified that all three datasets were loaded successfully.
-2. Row Limiting and Data Types
+
+3. Row Limiting and Data Types
 Restricted the List of Orders table to the first 500 rows.
 Changed the Order Date column to the Date data type.
 Converted Amount and Target columns to Fixed Decimal Number.
 Verified the data types of the relevant columns.
-3. Text Formatting
+
+4. Text Formatting
 Applied Proper Case formatting to the Customer Name column.
 Standardized customer names to maintain consistency and readability.
-4. Column Creation
+5. Column Creation
 
 Location Column
 
