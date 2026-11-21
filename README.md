@@ -1,4 +1,4 @@
-E-Commerce Sales Data Preparation and Modeling using Power BI
+# E-Commerce Sales Data Preparation and Modeling using Power BI
 📌 Project Overview
 
 This project focuses on data preparation, transformation, cleansing, aggregation, and relationship modeling using Microsoft Power BI and Power Query Editor.
